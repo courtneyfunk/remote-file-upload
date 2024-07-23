@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remote File Upload</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="upload-container">
+        <h2>Upload File from URL</h2>
+        <form id="uploadForm">
+            <input type="url" name="fileUrl" id="fileUrlInput" placeholder="Enter file URL" required>
+            <div class="progress-container">
+                <div class="progress-bar" id="progressBar"></div>
+            </div>
+            <button type="submit">Upload</button>
+            <div id="status"></div>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
