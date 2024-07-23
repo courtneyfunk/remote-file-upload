@@ -2,6 +2,8 @@
 
 This project demonstrates a remote file upload system where users can upload files by providing a URL. The file is downloaded from the provided URL and stored on the server.
 
+![Remote file upload](/screenshot.png)
+
 ## Features
 
 - Enter a URL to upload a file from the web.
@@ -14,6 +16,9 @@ This project demonstrates a remote file upload system where users can upload fil
 - CSS
 - JavaScript
 - PHP
+
+## Credits
+- Special thanks to [DeltaEx](https://deltaexecuter.com/blog/)
 
 ## Setup
 
