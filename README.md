@@ -15,4 +15,4 @@ This project demonstrates a remote file upload system where users can upload fil
 - JavaScript
 - PHP
 
--This project made possible by [DeltaExp](https://deltaexecuter.com/blog/)
+Credits: This project made possible by [DeltaExp](https://deltaexecuter.com/blog/)
